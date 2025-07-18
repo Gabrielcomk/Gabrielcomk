@@ -1,56 +1,80 @@
 <h2 align="center">Night of Nights</h2>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header"/>
+</p>
 
-<!-- Estatísticas + Linguagens com espaçamento -->
+<br/>
+
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Salkaiju&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="200" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Salkaiju&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="200"/>
     </td>
-    <td width="50px"><!-- Espaço entre os gráficos --></td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salkaiju&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="200" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salkaiju&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="200"/>
     </td>
   </tr>
 </table>
 
-<!-- Bio -->
-<h6 align="center" style="max-width: 800px; margin: auto;">
-Atualmente sou Aluno de Desenvolvimento Full Stack na Rede Marista Cesmar, onde integro minha paixão por tecnologia com o compromisso de inclusão social e desenvolvimento de minhas habilidades técnicas.
-</h6>
+<br/>
 
-<br>
-
-<!-- Habilidades -->
-<h3 align="center">Habilidades:</h3>
-
-<h6 align="center">
-Java, C, HTML5, CSS, JavaScript, Bootstrap, Trabalho em equipes, e Git;<br>
-Conhecimentos em: MySQL, PhpMyAdmin, Xampp
-</h6>
-
-<br>
-
-<!-- Imagem e tecnologias -->
 <div align="center">
-  <img src="https://media.tenor.com/r6TGLs81M4UAAAAi/touhou-sakuya.gif" height="140" style="margin-bottom: 10px;" />
 
-  <div style="margin-top: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  </div>
+### 👨‍💻 Sobre Mim
 
-  <div style="margin-top: 20px;">
-    <a href="https://www.instagram.com/gsaltkar/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-    </a>
-    <a href="https://www.linkedin.com/in/gabriel-karkotli-568a59253/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-    </a>
-  </div>
+Sou um desenvolvedor apaixonado por tecnologia, aprendizado constante e criação de experiências digitais impactantes.
+
+🌙 Nome de usuário: **Salkaiju**
+
+🔭 Atualmente estou trabalhando em projetos pessoais e aprendendo novas stacks.  
+🌱 Estou aprendendo: **TypeScript**, **Next.js**, **SQL**, e mais.  
+🎮 Hobby: RPG, música metal japonesa (RiffShop), e escrita criativa.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
+
+---
+
+### 📫 Onde me encontrar:
+
+<p align="center">
+  <a href="https://github.com/Salkaiju" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seu.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 </div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salkaiju&theme=tokyonight&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Salkaiju&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+</p>
