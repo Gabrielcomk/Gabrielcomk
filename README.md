@@ -33,8 +33,6 @@ Conhecimentos em: MySQL, PhpMyAdmin, Xampp
 <br>
 
 <!-- Imagem e tecnologias -->
-<div align="center">
-  <img src="https://media.tenor.com/r6TGLs81M4UAAAAi/touhou-sakuya.gif" height="160" style="margin-bottom: 10px;" />
 
   <div style="margin-top: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
@@ -45,6 +43,9 @@ Conhecimentos em: MySQL, PhpMyAdmin, Xampp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
   </div>
 
+<div align="center">
+  <img src="https://media.tenor.com/r6TGLs81M4UAAAAi/touhou-sakuya.gif" height="160" style="margin-bottom: 10px;" />
+  
   <div style="margin-top: 20px;">
     <a href="https://www.instagram.com/gsaltkar/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
