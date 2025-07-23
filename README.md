@@ -31,7 +31,7 @@ Conhecimentos em: MySQL, PhpMyAdmin, Xampp
 
 
   <div align="center">
-  <img src="[https://media.tenor.com/r6TGLs81M4UAAAAi/touhou-sakuya.gif](https://tenor.com/pt-BR/view/jotaro-kujo-jotaro-star-platinum-dio-dio-brando-gif-26752469)" height="160" style="margin-bottom: 10px;" />
+  <img src="https://media1.tenor.com/m/snBycaaDi0MAAAAd/jotaro-kujo-jotaro.gif" height="160" style="margin-bottom: 10px;" />
     
   <div style="margin-top: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
