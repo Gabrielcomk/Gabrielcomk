@@ -5,11 +5,11 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Salkaiju&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Gabrielcomk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="200" />
     </td>
     <td width="50px"> </td>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salkaiju&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="200" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabrielcomk&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="200" />
     </td>
   </tr>
 </table>
