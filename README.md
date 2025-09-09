@@ -43,7 +43,7 @@ Conhecimentos em: MySQL, PhpMyAdmin, Xampp
   </div>
 
 
-<div align="center">
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielcomk&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
