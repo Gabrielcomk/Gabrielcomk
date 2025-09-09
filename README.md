@@ -41,14 +41,7 @@ Conhecimentos em: MySQL, PhpMyAdmin, Xampp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
   </div>
-  
-  <div style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/gabriel-karkotli-568a59253/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-    </a>
-  </div>
-</div>
-<br clear="both">
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielcomk&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
