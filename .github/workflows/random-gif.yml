@@ -16,14 +16,14 @@ jobs:
       - name: Definir próximo GIF
         run: |
           # Lista de GIFs
-          GIFS=("https://media.tenor.com/zZ2o8_ONLlRAAAA/jojo-fortnite.gif" \
-                "https://media.tenor.com/9qvRhTR47joAAAAS/shadow-dio-jjba.gif" \
+          GIFS=("https://media.tenor.com/zZ2o8_ONLRIAAAAj/jojo-fortnite.gif" \
+                "https://media.tenor.com/9qvRhTR47joAAAAj/shadow-dio-jjba.gif" \
                 "https://media.tenor.com/zVj0tqzt_MAAAC/touhou-sakuya-floss.gif")
 
           # Arquivo que salva o índice do último GIF usado
           INDEX_FILE=".github/workflows/last_gif_index.txt"
 
-          # Se o arquivo não existir, começamos do 0
+          # Se o arquivo não existir, cria com índice 0
           if [ ! -f "$INDEX_FILE" ]; then
             echo "0" > "$INDEX_FILE"
           fi
@@ -31,15 +31,15 @@ jobs:
           # Lê o índice atual
           INDEX=$(cat "$INDEX_FILE")
 
+          # Define o GIF atual baseado no índice salvo
+          RANDOM_GIF=${GIFS[$INDEX]}
+          echo "GIF_ESCOLHIDO=$RANDOM_GIF" >> $GITHUB_ENV
+
           # Calcula o próximo índice (0 → 1 → 2 → 0 → 1 → 2 ...)
           NEXT_INDEX=$(( (INDEX + 1) % ${#GIFS[@]} ))
 
           # Salva o próximo índice para a próxima execução
           echo "$NEXT_INDEX" > "$INDEX_FILE"
-
-          # Define o GIF escolhido
-          RANDOM_GIF=${GIFS[$NEXT_INDEX]}
-          echo "GIF_ESCOLHIDO=$RANDOM_GIF" >> $GITHUB_ENV
 
       - name: Atualizar README com o GIF escolhido
         run: |
