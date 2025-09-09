@@ -43,7 +43,7 @@ jobs:
 
       - name: Atualizar README com o GIF escolhido
         run: |
-          sed -i "s|<img src=\"https://.*\" height=\"160\" style=\"margin-bottom: 10px;\" />|<img src=\"$GIF_ESCOLHIDO\" height=\"160\" style=\"margin-bottom: 10px;\" />|" README.md
+          sed -i "s|<img src=\"https://media\.tenor\.com/[^\"]*\" height=\"160\" style=\"margin-bottom: 10px;\" />|<img src=\"$GIF_ESCOLHIDO\" height=\"160\" style=\"margin-bottom: 10px;\" />|" README.md
 
       - name: Commit e Push das alterações
         run: |
