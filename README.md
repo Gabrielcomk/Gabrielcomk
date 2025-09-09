@@ -29,10 +29,10 @@ Conhecimentos em: MySQL, PhpMyAdmin, Xampp
 
 <br>
 
-
-  <div align="center">
+<div align="center">
+  <!-- GIF ALEATÓRIO SERÁ SUBSTITUÍDO AQUI PELO ACTION -->
   <img src="https://media.tenor.com/9qvRhTR47joAAAAj/shadow-dio-jjba.gif" height="160" style="margin-bottom: 10px;" />
-    
+
   <div style="margin-top: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" />
@@ -41,15 +41,22 @@ Conhecimentos em: MySQL, PhpMyAdmin, Xampp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
   </div>
-
-
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielcomk&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+  
+  <div style="margin-top: 20px;">
+    <a href="https://www.linkedin.com/in/gabriel-karkotli-568a59253/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    </a>
+  </div>
 </div>
-
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Salkaiju&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielcomk&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Salkaiju&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
