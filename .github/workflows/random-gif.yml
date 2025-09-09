@@ -2,22 +2,23 @@ name: Random GIF in README
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Atualiza automaticamente a cada 6 horas
+    - cron: "0 */6 * * *" # Executa a cada 6 horas
   workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   update-gif:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repositório
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Escolher GIF aleatório
         run: |
           # Lista de GIFs
-          GIFS=("https://media.tenor.com/zZ2o8_ONLRIAAAAj/jojo-fortnite.gif" \
-                "https://media.tenor.com/9qvRhTR47joAAAAj/shadow-dio-jjba.gif" \
-                "https://media.tenor.com/zVzj0tqzt_MAAAAC/touhou-sakuya-floss.gif")
+          GIFS=("https://media.tenor.com/zZ2o8_ONLlRAAAA/jojo-fortnite.gif" \
+                "https://media.tenor.com/9qvRhTR47joAAAAS/shadow-dio-jjba.gif" \
+                "https://media.tenor.com/zVj0tqzt_MAAAC/touhou-sakuya-floss.gif")
 
           # Número aleatório entre 1 e 100
           RANDOM_NUM=$((RANDOM % 100 + 1))
@@ -30,15 +31,16 @@ jobs:
             RANDOM_GIF=${GIFS[2]}   # 34%
           fi
 
-          echo "GIF escolhido: $RANDOM_GIF"
+          echo "GIF_ESCOLHIDO=$RANDOM_GIF" >> $GITHUB_ENV
 
-          # Substitui no README
-          sed -i "s|<img src=\"https://.*\" height=\"160\" style=\"margin-bottom: 10px;\" />|<img src=\"$RANDOM_GIF\" height=\"160\" style=\"margin-bottom: 10px;\" />|" README.md
+      - name: Atualizar README com o GIF escolhido
+        run: |
+          sed -i "s|<img src=\"https://.*\" height=\"160\" style=\"margin-bottom: 10px;\" />|<img src=\"$GIF_ESCOLHIDO\" height=\"160\" style=\"margin-bottom: 10px;\" />|" README.md
 
       - name: Commit e Push das alterações
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🔄 GIF atualizado automaticamente"
+          git commit -m "Atualizando GIF aleatório no README"
           git push
