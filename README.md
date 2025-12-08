@@ -15,7 +15,7 @@
 </table>
 
 <h4 align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
-Atualmente sou Aluno de Desenvolvimento Full Stack na Rede Marista Cesmar, onde integro minha paixão por tecnologia com o compromisso de inclusão social e desenvolvimento de minhas habilidades técnicas.
+Atualmente, estou na prática do programa Jovem Aprendiz de uma oportunidade que ingressei na rede social Marista do Cesmar. Estou na parte da Informática, mais focado no desenvolvimento onde trabalho com ferramentas e tecnologias como C++ e Java enquanto exploro o mundo do trabalho e desenvolvo mais experiência real em equipe.
 </h4>
 
 <br>
