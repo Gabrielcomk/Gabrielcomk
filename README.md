@@ -23,7 +23,7 @@ Atualmente, estou na prática do programa Jovem Aprendiz de uma oportunidade que
 <h3 align="center">Habilidades:</h3>
 
 <h4 align="center" style="font-size: 16px;">
-Java, C, HTML5, CSS, JavaScript, Bootstrap, Trabalho em equipes, e Git;<br>
+Java, C, C++, C# HTML5, CSS, JavaScript, Bootstrap, Trabalho em equipes, e Git;<br>
 Conhecimentos em: MySQL, PhpMyAdmin, Xampp
 </h4>
 
