@@ -6,7 +6,7 @@
 </table>
 
 <h4 align="center" style="max-width: 800px; margin: auto; font-size: 16px;">
-Atualmente, estou na prática do programa Jovem Aprendiz de uma oportunidade que ingressei na rede social Marista do Cesmar. Estou na parte da Informática, mais focado no desenvolvimento onde trabalho com ferramentas e tecnologias como C++ e Java enquanto exploro o mundo do trabalho e desenvolvo mais experiência real em equipe.
+Atualmente, estou trabalhando no Zaffari na parte de TI, desenvolvendo a linguagem ABAP na área do SAP a qual estou constantemente aprendendo. Sou mais focado no desenvolvimento onde trabalho com ferramentas e tecnologias do Fullstack, como C++, Java, ABAP, Javascript (vulgo Typescript), HTML, CSS e também está nos planos aprender XML, Docker e Linux/Comandos.
 </h4>
 
 <br>
